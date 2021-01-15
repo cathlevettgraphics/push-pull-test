@@ -1,4 +1,8 @@
 body {
-  background-color: salmon;
+  background-color: pink;
   font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+  font-size: 42px;
 }
