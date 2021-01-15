@@ -1,8 +1,12 @@
 body {
   background-color: pink;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
 }
 
 h1 {
   font-size: 42px;
+}
+
+p {
+  font-size: 1.8rem;
 }
